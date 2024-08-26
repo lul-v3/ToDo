@@ -23,10 +23,10 @@ git clone https://github.com/your-username/WPF-ToDo-Application.git
 - Open the project in Visual Studio 2022 or later.
 
 3. Build the Solution:
-- Build the project by selecting `Build > Build Solution´ or pressing ´Ctrl+Shift+B´.
+- Build the project by selecting "Build > Build Solution" or pressing "Ctrl+Shift+B".
 
 4. Run the Application:
-- Start the application by selecting ´Debug > Start Debugging´ or pressing ´F5´.
+- Start the application by selecting "Debug > Start Debugging" or pressing "F5".
 
 ## Usage
 - Add a Task: Click on the "Add ToDo" button and enter the task details in the dialog that appears.
@@ -41,7 +41,7 @@ git clone https://github.com/your-username/WPF-ToDo-Application.git
 - WPF UI: Special thanks to the WPF UI library for providing the modern interface components.
 
 ## Contact
-If you have any questions or feedback, feel free to reach out to me at [contact@lulv3.com].
+If you have any questions or feedback, feel free to reach out to me at contact@lulv3.com.
 
 
 
