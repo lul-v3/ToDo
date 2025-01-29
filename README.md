@@ -20,7 +20,7 @@ To run this application on your local machine, follow these steps:
 
 1. Clone the Repository:
 ```
-git clone https://github.com/your-username/WPF-ToDo-Application.git
+git clone https://github.com/lul-v3/ToDo.git
 ```
 2. Open the Project:
 - Open the project in Visual Studio 2022 or later.
